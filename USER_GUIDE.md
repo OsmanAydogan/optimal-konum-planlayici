@@ -99,7 +99,9 @@ A: Mevcut model sınırsız kapasite varsayımıyla çalışmaktadır. Her tesis
 
 ## Video Demonstrasyon
 
-![Optimal Konum Planlayıcı](Optimal%20Konum%20Planlayıcı.mp4)
+[![Optimal Konum Planlayıcı Demo](https://img.youtube.com/vi/xx4HxIuHZYA/maxresdefault.jpg)](https://youtu.be/xx4HxIuHZYA)
+
+**[▶️ YouTube'da Tam Video İçin Tıklayın](https://youtu.be/xx4HxIuHZYA)**
 
 ## Performans Karşılaştırması
 

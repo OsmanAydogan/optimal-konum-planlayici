@@ -50,9 +50,9 @@ Demo senaryoları API key gerektirmez ve önceden hesaplanmış sonuçları anı
 
 ## Video Tanıtım
 
-📹 **[Demo Videosunu İzlemek İçin Tıklayın](Optimal%20Konum%20Planlayıcı.mp4)**
+[![Optimal Konum Planlayıcı Demo](https://img.youtube.com/vi/xx4HxIuHZYA/maxresdefault.jpg)](https://youtu.be/xx4HxIuHZYA)
 
-*Veya doğrudan [canlı demo](https://optimal-konum-demo.onrender.com/) ile uygulamayı test edebilirsiniz.*
+**[▶️ YouTube'da İzle](https://youtu.be/xx4HxIuHZYA)** | **[🚀 Canlı Demo](https://optimal-konum-demo.onrender.com/)**
 
 ## Teknik Altyapı
 
