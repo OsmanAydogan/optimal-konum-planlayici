@@ -16,18 +16,6 @@ Optimal Konum Planlayıcı, p-Median optimizasyon problemini çözen bir web uyg
 
 Bu proje, [önceki açık kaynak versiyonun](https://github.com/OsmanAydogan/istanbul_kahve_dukkanlari) geliştirilmiş halidir:
 
-| Özellik | Önceki Versiyon | Bu Proje |
-|---------|-----------------|----------|
-| Kaynak Kodu | Açık kaynak | Kapalı kaynak (demo-only) |
-| UI/UX | Basit arayüz | Modern, dark theme, responsive |
-| Harita | Google Maps Embed | Leaflet.js (interaktif) |
-| Konum Arama | Manuel girdi | Google Places Autocomplete |
-| Mesafe Hesaplama | Kuş uçuşu (Haversine) | Gerçek yol mesafesi (Distance Matrix API) |
-| Mobilite | Desktop only | Mobil uyumlu, responsive |
-| Demo Senaryoları | Yok | Önceden hesaplanmış senaryolar |
-| Sektör Desteği | Genel amaçlı | 6 farklı sektör terminolojisi |
-| Deployment | Local | Cloud (Render.com) |
-
 **Temel İyileştirmeler:**
 - Gerçek yol mesafelerinin kullanımı (Google Maps Distance Matrix API)
 - Modern kullanıcı arayüzü ve responsive tasarım
