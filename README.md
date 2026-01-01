@@ -126,6 +126,9 @@ Projenin detaylı teknik açıklaması için Medium makalesini inceleyebilirsini
 
 [Medium Makalesi - Optimal Konum Planlayıcı](https://medium.com/@aydoganosman17/optimal-konum-planlay%C4%B1c%C4%B1-1a513b99f61a)
 
+Uygulama sadece canlı demo olarak kullanıma açıktır:
+- Demo URL: https://optimal-konum-demo.onrender.com/
+- Ticari kullanım için iletişime geçiniz.
 
 ## İletişim
 
